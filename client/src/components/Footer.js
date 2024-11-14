@@ -15,7 +15,7 @@ function Footer() {
         fontSize: '16px',
         fontWeight: 'bold',
       }}>
-        
+        by  Gangavarapu sravanthi
       </div>
     </footer>
   );
